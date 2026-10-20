@@ -1,0 +1,3 @@
+﻿  pr10_Trembach.cpp
+C:\Users\лера\OneDrive\Desktop\Практ 10\pr10_Trembach\pr10_Trembach\pr10_Trembach.cpp(378,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pr10_Trembach.vcxproj -> C:\Users\лера\OneDrive\Desktop\Практ 10\pr10_Trembach\x64\Debug\pr10_Trembach.exe
